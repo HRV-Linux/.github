@@ -7,10 +7,10 @@ Generation -  2024
 | Entity                       | Contribution                                      |
 |:-----------------------------|:--------------------------------------------------|
 | HRV Linux Author ❤️           | [Forcebook](https://github.com/forcebook)        |
-| Word                         | https://go.microsoft.com/fwlink/p/?linkid=525134  |
-| Excel                        | https://go.microsoft.com/fwlink/p/?linkid=525135  |
-| PowerPoint                   | https://go.microsoft.com/fwlink/p/?linkid=525136  |
-| Outlook                      | https://go.microsoft.com/fwlink/p/?linkid=525137  |
+| -                     | - |
+| -                     | - |
+| -                     | - |
+| -                     | - |
 
 </TabItem>
 
